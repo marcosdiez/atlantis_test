@@ -1,5 +1,3 @@
 version: 3
-pre_workflow_hooks:
-   - echo "do nothing"
 projects:
 - dir: ./terraform/
